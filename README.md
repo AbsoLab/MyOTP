@@ -8,7 +8,7 @@
 
 $npm install
 
-$node MyOtpClient.js
+$node MyOtpClient.js [고유번호]
 
-$node MyOtpServer.js [OTP 값]
+$node MyOtpServer.js [OTP 값] [고유번호]
 
